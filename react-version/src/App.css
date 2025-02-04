@@ -1,3 +1,6 @@
+@import '@fontsource/dm-sans/index.css';
+
 body {
   background-color: #000;
+  font: 'DM Sans', sans-serif;
 }
