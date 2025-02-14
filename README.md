@@ -8,10 +8,14 @@ Este repositório contém os códigos e arquivos desenvolvidos durante a **Imers
 - Explorar boas práticas de desenvolvimento front-end.  
 
 ## 🚀 Tecnologias Utilizadas  
-- **HTML**  
-- **CSS**  
-- **JavaScript**  
-- **React**  
+<div style="display: inline_block"><br>
+ <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+ <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+ <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
 
 ## 🛠️ Funcionalidades do Projeto  
 - Estrutura básica do site (navegação, listas de reprodução, player de música).  
